@@ -1,0 +1,26 @@
+.name,
+.email {
+    display: block;
+    margin-top: 5px;
+}
+
+.survey {
+    vertical-align: middle;
+}
+
+.survey p {
+    width: 250px;
+    display: inline-block;
+}
+
+.sign-up-name {
+    display: inline-block;
+    gap: 5px;
+    margin-bottom: 8px;
+    padding-left: ;
+}
+
+.sign-up-email {
+    display: block;
+    margin-bottom: 10px;
+} 
